@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.hte22.cn/sitemap.xml
